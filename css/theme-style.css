@@ -1,0 +1,23 @@
+/**
+ * We import all used CSS files in this one CSS file to make it easier 
+ * to add to all related HTML files all needed styles easily.
+ */
+
+@import "bootstrap.css";
+@import "font-awesome.css";
+@import "animate.css";
+@import "elusive-webfont.css";
+@import "magnific-popup.css";
+@import "jquery.bxslider.css";
+@import "jquery.flexisel.css";
+@import "parallax.css";
+@import "parallax.content.slider.css";
+
+@import "grid.css";
+@import "responsive-navbar.css";
+@import "main.css";
+@import "responsive-adjustments.css";
+
+
+
+

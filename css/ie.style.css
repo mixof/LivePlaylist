@@ -1,0 +1,29 @@
+
+/*============================================================
+		Style for Internet Explorer old Version
+============================================================*/
+.lt-ie9 .container{  width: 940px;}
+.lt-ie9 .span12 { width: 940px;}
+.lt-ie9 .span11 { width: 860px;}
+.lt-ie9 .span10 { width: 780px;}
+.lt-ie9 .span9 { width: 700px;}
+.lt-ie9 .span8 { width: 620px;}
+.lt-ie9 .span7 { width: 540px;}
+.lt-ie9 .span6 { width: 460px;}
+.lt-ie9 .span5 { width: 380px;}
+.lt-ie9 .span4 { width: 300px;}
+.lt-ie9 .span3 { width: 220px;}
+.lt-ie9 .span2 { width: 140px;}
+.lt-ie9 .span1 { width: 60px;}
+
+.lt-ie9 .image-with-transparent-border { position:relative; display:block; margin:auto; overflow:hidden; }
+.lt-ie9 .image-with-transparent-border img { width:100%; height:100%;display:block;}
+
+.lt-ie9 .toggle-box .toggle-box-header {width:90%;}
+.lt-ie9 .author{display: block; height: 80px; width: 100%;}
+.lt-ie9 .author .image-with-transparent-border { position:relative;width: 80px; overflow:hidden; float:left; }
+.lt-ie9 .author .image-with-transparent-border img{width:100%; height:100%;display:block;}
+.lt-ie9 .tt-wrapper li a span{display: none;}
+.lt-ie9 .tt-wrapper li a i {margin-left: 10px;}
+.lt-ie9 .text-testimonial{ border:1px solid #ccc;}
+.lt-ie9 .form-inline .btn{ float: right;}

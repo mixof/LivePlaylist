@@ -1,0 +1,19 @@
+2015-10-13 10:29:23: -- Analysis Started by On File Change 1st Full Analyze
+2015-10-13 10:29:23: Слева: State file does not exist: Z:/home/test1.ru/www/uploads/_gsdata_/_file_state_v4._gs
+2015-10-13 10:29:23: Справа: State file does not exist: Z:/home/localhost/www/test1.ru/uploads/_gsdata_/_file_state_v4._gs
+2015-10-13 10:29:23: Изменений: 8, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 0/39, Ошибок: 0, All: 48
+2015-10-13 10:29:23: Left to Right: Copy File: 3 Delete File: 5 
+2015-10-13 10:29:23: == Sync Started by On File Change 1st Full Analyze
+2015-10-13 10:29:23: Удалена Папка 'Z:/home/localhost/www/test1.ru/uploads/10'
+2015-10-13 10:29:23: Удалён Файл 'Z:/home/localhost/www/test1.ru/uploads/7/08_Обрез.mp3'
+2015-10-13 10:29:23: Удалён Файл 'Z:/home/localhost/www/test1.ru/uploads/8/01._Дело_в_нас_.mp3'
+2015-10-13 10:29:23: Удалён Файл 'Z:/home/localhost/www/test1.ru/uploads/8/05._Если_подмести_.mp3'
+2015-10-13 10:29:23: Удалён Файл 'Z:/home/localhost/www/test1.ru/uploads/9/Drumsound_and_Bassline_Smith_-_Through_The_Night_(Ft._Tom_Cane)_.mp3'
+2015-10-13 10:29:23: Скопирован новый 'Z:/home/test1.ru/www/uploads/7/qr.png' -> 'Z:/home/localhost/www/test1.ru/uploads/7/qr.png'
+2015-10-13 10:29:23: Скопирован новый 'Z:/home/test1.ru/www/uploads/8/qr.png' -> 'Z:/home/localhost/www/test1.ru/uploads/8/qr.png'
+2015-10-13 10:29:23: Скопирован новый 'Z:/home/test1.ru/www/uploads/9/qr.png' -> 'Z:/home/localhost/www/test1.ru/uploads/9/qr.png'
+2015-10-13 10:29:23: ===== Синхронизация завершена. Время 00:00:00, Скорость: 0 байт/s файлов/сек =====, Синхронизировано: 47, Ошибок: 0
+2015-10-13 10:29:24: -- Analysis Started by On File Change PostSync Re-Analyze
+2015-10-13 10:29:24: Изменений: 0, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 0/0, Ошибок: 0, All: 48
+2015-10-13 10:29:24: ----- Анализ завершён. Время 00:00:01, Скорость: 43 файлов/сек -----
+2015-10-13 10:29:24: 

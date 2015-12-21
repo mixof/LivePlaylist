@@ -1,0 +1,196 @@
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+/* ==========================================================================
+   Less Variables
+   ========================================================================== */
+.roboto {
+  font-family: 'RobotoCondensed';
+}
+.roboto-light {
+  font-family: 'RobotoCondensedLight';
+}
+.border-box-sizing {
+  -webkit-box-sizing: border-box;
+  /* Safari/Chrome, other WebKit */
+
+  -moz-box-sizing: border-box;
+  /* Firefox, other Gecko */
+
+  box-sizing: border-box;
+  /* Opera/IE 8+ */
+
+}
+/* ============================== Skin Variables ============================ */
+/* ==========================================================================
+   Skins
+
+# Default
+@skin:"default";
+@color1:#7a665f;
+@color2:#b39e89;
+@color3:#b5d408;
+
+# Business
+@skin:"business";
+@color1:#0e4257;
+@color2:#3f8dab;
+@color3:#880000;
+@color4:#f1ebdf;
+
+@skin:"restaurant";
+@color1:#4e0a09;
+@color2:#c34344;
+@color3:#35aab0;
+@color3:#b79b76;
+
+
+
+
+
+
+
+   ========================================================================== */
+@media (max-width: 767px) {
+  /* Tablet Portrait and Mobile */.container {
+    padding: 0 10px;
+  }
+  #header .header-search-form-button {
+    right: 10px !important;
+  }
+  #header .header-search-form-input {
+    right: 57px !important;
+  }
+  .block-welcome .btn {
+    margin-top: 15px;
+    float: none;
+  }
+  .image-with-transparent-border {
+    margin: 0 auto 20px;
+  }
+  .block {
+    padding: 30px 0;
+  }
+  .block [class*="span"] {
+    margin-bottom: 40px;
+  }
+  .block [class*="span"]:last-child {
+    margin-bottom: 0;
+  }
+  .block .contact-form [class*="span"] {
+    margin-bottom: 0 !important;
+  }
+  .block-twitter-feed .block-toolbar {
+    top: -10px;
+  }
+  .block-twitter-feed .twitter-logo {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .block-twitter-feed #twitter-feed {
+    margin: 0;
+  }
+  .block-tabbed .nav-tabs > li {
+    padding: 0;
+  }
+  .block-tabbed .nav-tabs > li.active {
+    padding-top: 0;
+  }
+  .block-tabbed .nav-tabs > li.active > a {
+    padding-top: 8px;
+    border-top-width: 1px;
+  }
+  .what-clients-say .testimonial {
+    margin-bottom: 50px;
+  }
+  .what-clients-say-block .block-toolbar {
+    top: 50px;
+  }
+  .food-category-filtered-menu .image-with-transparent-border {
+    margin: 0 auto;
+  }
+  .bxpager {
+    display: none;
+  }
+  .ul-testimonial .left *,
+  .ul-testimonial .right * {
+    float: none !important;
+  }
+  .pricing4Col .span3 {
+    margin-left: 0 !important;
+  }
+  .pricing4Col .plan {
+    padding: 0;
+  }
+  .pricing3Col .span4 {
+    margin-left: 0 !important;
+  }
+  .pricing3Col .plan {
+    padding: 0;
+  }
+  .contact-info {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 480px) {
+  /* Mobile */
+  #header .header-socials {
+    display: none;
+  }
+  .block-tip-of-day .tip-header {
+    margin: 0;
+    min-height: inherit;
+    background: none;
+    text-indent: 0;
+    text-align: center;
+  }
+  .block-header h2 {
+    font-size: 22px;
+    margin: 5px;
+    line-height: 24px;
+    text-align: center;
+  }
+  .block-toolbar {
+    position: initial;
+    display: block !important;
+    text-align: center !important;
+    margin-bottom: 10px;
+  }
+  .block-our-schedule .block-toolbar h2 {
+    margin-top: 0;
+  }
+  .block-why-choose-us li h2 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+  .block-portfolio .portfolio [class*="span6"] .image-with-transparent-border .image-overlay a.bubble-title {
+    font-size: 20px;
+  }
+  .block-portfolio .portfolio [class*="span4"] .image-with-transparent-border .image-overlay a.bubble-title {
+    font-size: 16px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1200px) {
+  /* Mobile Landscape */
+  .block-tabbed .nav-tabs > li > a {
+    width: 131px;
+  }
+}
+@media (min-width: 480px) and (max-width: 767px) {
+  /* Mobile Landscape */
+  .block-tabbed .nav-tabs > li > a {
+    width: 681px;
+  }
+}
+@media (min-width: 320px) and (max-width: 479px) {
+  /* Mobile Landscape */
+  .block-tabbed .nav-tabs > li > a {
+    width: 393px;
+  }
+}
+@media (max-width: 319px) {
+  /* Mobile Portrait */
+  .block-tabbed .nav-tabs > li > a {
+    width: 239px;
+  }
+}
